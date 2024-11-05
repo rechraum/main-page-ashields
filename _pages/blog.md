@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: On the Nature of Me
+title: on the nature of ~~things~~ me
 nav: true
 nav_order: 1
 pagination:

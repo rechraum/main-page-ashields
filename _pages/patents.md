@@ -17,6 +17,6 @@ nav_order: 4
 
 <div class="patents">
 
-{% bibliography %}
+{% bibliography/patents.md %}
 
 </div>
