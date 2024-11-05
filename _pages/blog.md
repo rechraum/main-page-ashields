@@ -1,7 +1,7 @@
 ---
 layout: default
 permalink: /blog/
-title: on the nature of ~~things~~ me
+title: on the nature of <del>things</del> me
 nav: true
 nav_order: 1
 pagination:
