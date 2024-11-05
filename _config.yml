@@ -229,7 +229,6 @@ kramdown:
 # Includes & excludes
 include: ["_pages"]
 exclude:
-  - TemplatesAlFolio/
   - bin/
   - CONTRIBUTING.md
   - CUSTOMIZE.md
